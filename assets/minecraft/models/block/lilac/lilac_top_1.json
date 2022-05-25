@@ -1,0 +1,7 @@
+{
+	"credit": "Make for DripDrop Sever by neverlag",
+	"parent": "minecraft:block/cross",
+	"textures": {
+		"cross": "block/lilac/5"
+	}
+}

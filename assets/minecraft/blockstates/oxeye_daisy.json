@@ -1,0 +1,11 @@
+{
+  "variants": {
+      "": [
+    { "model": "block/oxeye_daisy/oxeye_daisy", "weight": 1 },
+    { "model": "block/oxeye_daisy/oxeye_daisy_1", "weight": 1 },
+    { "model": "block/oxeye_daisy/oxeye_daisy_2", "weight": 1 },
+    { "model": "block/oxeye_daisy/oxeye_daisy_3", "weight": 1 },
+    { "model": "block/oxeye_daisy/oxeye_daisy_4", "weight": 1 }  
+      ]
+  }
+}

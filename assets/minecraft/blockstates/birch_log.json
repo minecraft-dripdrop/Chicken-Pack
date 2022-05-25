@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=y": [
+      {"model": "minecraft:block/birch_log/birch_log", "weight": 9 },
+      {"model": "minecraft:block/birch_log/birch_log_1", "weight": 9 },
+      {"model": "minecraft:block/birch_log/birch_log_2", "weight": 1 },
+      {"model": "minecraft:block/birch_log/birch_log_3", "weight": 5 }
+    ]
+  }
+}

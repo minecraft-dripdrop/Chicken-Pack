@@ -1,0 +1,18 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/grass/grass", "weight": 1 },
+			{ "model": "block/grass/grass_1", "weight": 1 },
+			{ "model": "block/grass/grass_2", "weight": 1 },
+			{ "model": "block/grass/grass_3", "weight": 1 },
+			{ "model": "block/grass/grass_4", "weight": 1 },
+            { "model": "block/grass/grass_5", "weight": 1 },
+			{ "model": "block/grass/grass_6", "weight": 1 },
+			{ "model": "block/grass/grass_7", "weight": 1 },
+			{ "model": "block/grass/grass_8", "weight": 1 },
+			{ "model": "block/grass/grass_9", "weight": 1 },
+			{ "model": "block/grass/grass_10", "weight": 1 }
+            
+        ]
+    }
+}

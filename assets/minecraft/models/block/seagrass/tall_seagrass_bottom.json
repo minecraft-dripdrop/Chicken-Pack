@@ -1,0 +1,6 @@
+{
+    "parent": "block/seagrass/template_seagrass",
+    "textures": {
+        "texture": "block/tall_seagrass_bottom"
+    }
+}

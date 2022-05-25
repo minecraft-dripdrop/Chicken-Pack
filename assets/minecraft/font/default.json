@@ -1,0 +1,3 @@
+{"providers":[{"type":"ttf","file":"ipaexg.ttf","oversample":2.0,"size":11.0,"shift":[0,0]},{"file":"font/mc_food.png","chars":[""],"height":9,"ascent":8,"type":"bitmap"},{"file":"font/mc_food_hunger.png","chars":[""],"height":9,"ascent":8,"type":"bitmap"},{"file":"font/mc_food_half.png","chars":[""],"height":9,"ascent":8,"type":"bitmap"},{"file":"font/mc_food_half_hunger.png","chars":[""],"height":9,"ascent":8,"type":"bitmap"}
+  ]
+}

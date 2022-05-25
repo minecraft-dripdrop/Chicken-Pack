@@ -1,0 +1,126 @@
+本材质包99%的材质/模型都来自其他材质包
+仅供“树上的小肥鸡-neverlag”及“他的玩家”在Minecraft服务器DripDrop中使用
+请勿私自分发、传播
+
+————————————————————
+【neverlag自制】：
+原版食物饱食度显示
+取消附魔效果
+
+————————————————————
+【BetterDefault Textures】：
+https://www.curseforge.com/minecraft/texture-packs/betterdefault-textures/
+
+草
+高草丛
+蕨
+大型蕨
+仙人掌
+睡莲
+箱子、物品栏GUI（已去除）
+枯萎的灌木
+各类花
+
+————————————————————
+【彩虹像素】：
+https://afdian.net/@Nan2uu
+
+1-9物品栏显示
+————————————————————
+【xali's Enhanced Biome: River & Pond】：
+https://www.planetminecraft.com/texture-pack/biome-enchanced-river-amp-pond/
+
+海草(香蒲)
+蝾螈桶（需optifine）
+水中的铁链
+————————————————————
+【BlockPixel Texture Pack】：
+https://www.planetminecraft.com/texture-pack/blockpixel-texture/
+
+菜单GUI
+————————————————————
+【Minecraft Launcher-Style Menu】：
+https://www.planetminecraft.com/texture-pack/minecraft-launcher-style-menu/
+
+菜单GUI（备选）
+点击音效（修改为2X）
+————————————————————
+【Quadral 】：
+https://www.planetminecraft.com/texture-pack/ignafs-quadral-resourcepack/
+
+经验条、血量、食物、盾牌
+————————————————————
+【Oringin Realms server-resourcepack】： 
+https://originrealms.com/
+
+仙人掌
+slash粒子
+雨、雪
+————————————————————
+【Yuushya 16x】：
+https://www.planetminecraft.com/texture-pack/yuushya-16/
+
+水
+————————————————————
+【Stamina】：
+https://www.planetminecraft.com/texture-pack/stamina/
+
+攻击指示器改耐力条
+————————————————————
+【continuity】：
+https://www.curseforge.com/minecraft/mc-mods/continuity
+
+无缝玻璃
+
+————————————————————
+【Rope Ladders with Vines】：
+https://www.planetminecraft.com/texture-pack/rope-ladders-with-vines/
+
+梯子
+————————————————————
+【Pablo's ColorPing】：
+https://www.curseforge.com/minecraft/texture-packs/pablos-colorping
+
+ping
+————————————————————
+【Mizuno's 16 Craft】：
+https://www.planetminecraft.com/texture-pack/mizunos-16-craft/
+
+ascii字体
+————————————————————
+【Treeshrooms】：
+https://www.planetminecraft.com/texture-pack/treeshrooms/
+
+白桦木+树菇
+草方块+萤火虫
+————————————————————
+【More Fungi】：
+https://www.planetminecraft.com/texture-pack/more-fungi/
+
+蘑菇+
+————————————————————
+【Mushroom Clusters - Shelf Fungus Add-on】：
+https://www.planetminecraft.com/texture-pack/mushroom-clusters-shelf-fungus-add-on/
+
+蘑菇材质更换+
+————————————————————
+【More Nether Roots】：
+https://www.planetminecraft.com/texture-pack/more-nether-roots/
+
+地狱植物+
+————————————————————
+【More Nether Fungi】：
+https://www.planetminecraft.com/texture-pack/more-nether-funguses/
+
+地狱蘑菇+
+————————————————————
+【Creeping Ivy】：
+https://www.planetminecraft.com/texture-pack/creeping-ivy/
+
+藤蔓
+————————————————————
+【Unique Spawn Eggs】：
+https://www.planetminecraft.com/member/gouchnox/
+
+刷怪蛋
+————————————————————

@@ -1,0 +1,11 @@
+{
+  "variants": {
+      "": [
+    { "model": "block/orange_tulip/orange_tulip", "weight": 1 },
+    { "model": "block/orange_tulip/orange_tulip_1", "weight": 1 },
+    { "model": "block/orange_tulip/orange_tulip_2", "weight": 1 },
+    { "model": "block/orange_tulip/orange_tulip_3", "weight": 1 },
+    { "model": "block/orange_tulip/orange_tulip_4", "weight": 1 }  
+      ]
+  }
+}

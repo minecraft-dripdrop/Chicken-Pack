@@ -1,0 +1,12 @@
+{
+  "variants": {
+      "": [
+    { "model": "block/poppy/poppy", "weight": 1 },
+    { "model": "block/poppy/poppy_1", "weight": 1 },
+    { "model": "block/poppy/poppy_2", "weight": 1 },
+    { "model": "block/poppy/poppy_3", "weight": 1 },
+    { "model": "block/poppy/poppy_4", "weight": 1 }
+          
+      ]
+  }
+}

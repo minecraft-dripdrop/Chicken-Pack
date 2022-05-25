@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "half=lower": {
+      "model": "minecraft:block/lilac/lilac_bottom"
+    },
+    "half=upper": [
+    { "model": "minecraft:block/lilac/lilac_top" },
+    { "model": "minecraft:block/lilac/lilac_top_1" }
+    ]
+  }
+}
